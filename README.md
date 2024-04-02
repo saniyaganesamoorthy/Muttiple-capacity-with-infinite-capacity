@@ -53,8 +53,8 @@ print("--------------------------------------------------------------")
 ```
 
 ## Output :
+![image](https://github.com/saniyaganesamoorthy/Muttiple-capacity-with-infinite-capacity/assets/145742583/f510d9d2-a243-4a2b-a1da-b4c4e2f6ea78)
 
-![Screenshot 2024-04-02 083834](https://github.com/saniyaganesamoorthy/Muttiple-capacity-with-infinite-capacity/assets/145742583/c085c10f-e302-498b-90f8-3cd10b1ef454)
 
 
 ## Result : 
