@@ -58,5 +58,5 @@ print("--------------------------------------------------------------")
 
 
 ## Result : 
-By using the python programming we find the Multiple server with infinite capacity and culculated.
+By using the python programming we find the Multiple server with infinite capacity and calculated.
 
